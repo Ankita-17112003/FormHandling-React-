@@ -34,7 +34,7 @@ This is a simple **React.js application** that demonstrates:
 ## How to Run the Project
 
 1. Clone the repository
-   -- git clone <repository-url>
+ git clone <repository-url>
    
 2. Navigate to project folder
    -- cd project-name
