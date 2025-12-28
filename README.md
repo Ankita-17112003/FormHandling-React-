@@ -34,15 +34,16 @@ This is a simple **React.js application** that demonstrates:
 ## How to Run the Project
 
 1. Clone the repository
- git clone <repository-url>
+
+   --  git clone <repository-url>
    
-2. Navigate to project folder
+3. Navigate to project folder
    -- cd project-name
    
-3. Install dependencies
+4. Install dependencies
    -- npm install
    
-4. Install dependencies
+5. Install dependencies
    -- npm run dev
    
-5. Start development server
+6. Start development server
