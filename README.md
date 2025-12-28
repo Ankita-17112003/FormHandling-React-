@@ -37,13 +37,16 @@ This is a simple **React.js application** that demonstrates:
 
    --  git clone <repository-url>
    
-3. Navigate to project folder
+2. Navigate to project folder
+   
    -- cd project-name
    
-4. Install dependencies
+3. Install dependencies
+   
    -- npm install
    
-5. Install dependencies
+4. Install dependencies
+   
    -- npm run dev
    
-6. Start development server
+5. Start development server
